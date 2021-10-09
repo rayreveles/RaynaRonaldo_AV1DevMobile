@@ -1,3 +1,5 @@
+/*Rayná Araújo Reveles - 0050013521*/
+
 import React, { useState } from "react";
 import { StyleSheet, Text, View, Dimensions, Image, TouchableOpacity } from "react-native";
 
